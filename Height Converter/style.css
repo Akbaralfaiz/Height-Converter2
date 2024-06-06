@@ -4,14 +4,45 @@ body {
     color: #fff;
     align-items: center;
     text-align: center;
-}
-
-.card {
+  }
+  
+  .card {
     margin-top: 11px;
     background: red;
-}
-
-#resetButton {
+  }
+  
+  #resetButton {
     margin: 21px;
     background: grey;
-}
+  }
+  .list-group {
+    color: black;
+  }
+  
+  .height-converter-container {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card {
+    margin: 10px 0;
+  }
+  
+  .text-bold {
+    font-weight: bold;
+  }
+  
+  .form-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  
+  #swapButton {
+    margin: 0 10px;
+  }
+  
